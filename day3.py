@@ -1,0 +1,7 @@
+l=list(map(int,input().split()))
+#l=sum(list(map(int,input().split())))
+a=(sum(l)/len(l))
+print ("Avg is",a)
+#l=list(map(int,input().split()))
+#l=list()
+#l=input().split()
